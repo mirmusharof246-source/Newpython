@@ -19,4 +19,4 @@ print(type(kodu))
 Myname="Musharof"
 kipi="karimgamj"
 print('My name is'+' '+Myname)
-
+print="HI"

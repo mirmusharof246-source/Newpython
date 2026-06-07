@@ -1,22 +1,16 @@
-GK="string type data"
-print(GK)
-#int type data
-Hablu=420
-print(type(Hablu))
+#bool type data
 
-#floating type data
+Bool=True
+print(type(Bool))
 
-gablu=40.5
-print(type(gablu))
+HabluBool=False
+print(type(HabluBool))
 
-#complex type data
-kodu=420j
+x=8
+y=10
 
+print(type(x>y))
+print(x>y)
+print(x<y)
+print(x==y)
 
-print(type(kodu))
-
-#string type data
-Myname="Musharof"
-kipi="karimgamj"
-print('My name is'+' '+Myname)
-print="HI"
